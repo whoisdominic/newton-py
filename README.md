@@ -1,8 +1,8 @@
 # Newton-Python
 
-## Why
-
 Boiler that includes commands and some useful python code
+
+## Useful commands
 
 Create virtual enviornment
 
@@ -14,6 +14,12 @@ Activate enviornment
 
 ```bash
 source env/bin/activate
+```
+
+Freeze dependencies
+
+```bash
+pip freeze > requirements.txt.
 ```
 
 ## The Zen of Python, by Tim Peters
