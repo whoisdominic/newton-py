@@ -51,6 +51,7 @@ python3
 
 ## Helpful commands
 
+### Type
 ```python
 type()
 ```
@@ -64,6 +65,7 @@ name = "Adam"
 type(name)
 ```
 
+### Dir
 ```python
 dir()
 ```
@@ -74,6 +76,7 @@ If we check the type of str (notice, no quotes here) in the REPL, we’ll see al
 
 We’ll use some of these methods later in the day.
 
+### Help
 ```python
 help()
 ```
