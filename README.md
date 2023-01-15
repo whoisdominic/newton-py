@@ -19,7 +19,7 @@ source env/bin/activate
 Freeze dependencies
 
 ```bash
-pip freeze > requirements.txt.
+pip freeze > requirements.txt
 ```
 
 ## The Zen of Python, by Tim Peters
